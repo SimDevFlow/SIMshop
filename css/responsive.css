@@ -1,0 +1,6 @@
+/* carousel slider img */
+@media (max-width:500px) {
+    .carousel-img{
+        height: 300px;
+    }
+}

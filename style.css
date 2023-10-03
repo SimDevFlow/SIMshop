@@ -1,0 +1,9 @@
+/* carousel slider img */
+.carousel-img{
+    height: 500px;
+    width: 100%;
+    display: block;
+    background-image: url('./assets/images/carousel.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
